@@ -17,6 +17,8 @@ Collection of tutorial resources for React, React-Native, Redux, etc. This is mo
 * **[VIDEO]**: [React in 15ish minutes - Reactjs Tutorial](https://www.youtube.com/watch?v=PGUMRVowdv8)
 * [Getting Started with React](https://www.sitepoint.com/getting-started-react-jsx/)
 * **[RU]**: [React на практике: приложение с сортировкой и поиском данных](http://jsraccoon.ru/react-sort-and-search)
+
+
 ---
 
 ### React Native
@@ -29,7 +31,10 @@ Collection of tutorial resources for React, React-Native, Redux, etc. This is mo
 * [The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 1)](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
 * [Snowflake: A React-Native Android iOS Starter App](https://github.com/bartonhammond/snowflake)
 * **[RU]**: [Разработка простого приложения «шагомер» на ReactNative](https://habrahabr.ru/post/283494/)
+
+
 ---
+
 ### Redux
 > Predictable State Container for JavaScript Apps
 

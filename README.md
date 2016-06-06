@@ -46,3 +46,5 @@ Collection of tutorial resources for React, React-Native, Redux, etc. This is mo
 #### Redux Tutorials
 * **[VIDEO]**: [Dan Abramov, Getting Started with Redux: 30 lessons](https://egghead.io/series/getting-started-with-redux)
 * [Tutorial: Let’s Build a Redux Powered React Application](https://stormpath.com/blog/build-a-redux-powered-react-application)
+* [Погружение в React: Redux](http://prgssr.ru/development/pogruzhenie-v-react-redux.html)
+* [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)

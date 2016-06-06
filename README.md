@@ -17,7 +17,7 @@ Collection of tutorial resources for React, React-Native, Redux, etc. This is mo
 * **[VIDEO]**: [React in 15ish minutes - Reactjs Tutorial](https://www.youtube.com/watch?v=PGUMRVowdv8)
 * [Getting Started with React](https://www.sitepoint.com/getting-started-react-jsx/)
 * **[RU]**: [React на практике: приложение с сортировкой и поиском данных](http://jsraccoon.ru/react-sort-and-search)
-
+* [22 Amazing open source React projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f#.ljq5izdox)
 
 ---
 

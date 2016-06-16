@@ -19,6 +19,18 @@ Collection of tutorial resources for React, React-Native, Redux, etc. This is mo
 * **[RU]**: [React на практике: приложение с сортировкой и поиском данных](http://jsraccoon.ru/react-sort-and-search)
 * [22 Amazing open source React projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f#.ljq5izdox)
 
+#### React Components
+* [react-toolbox - A set of React components implementing Google's Material Design specification](http://www.react-toolbox.com)
+* [react-component - A Collection of React UI Components](http://react-component.github.io/badgeboard/)
+* [Ant Design - An enterprise-class UI design language and React-based implementation](https://github.com/ant-design/ant-design)
+* [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
+* [react-aim - Determine the cursor aim for triggering mouse events](https://github.com/gabrielbull/react-aim)
+* [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
+
+#### Books
+* [React Speed Coding - React ES6, Redux, Webpack, Enzyme, Flexbox, Firebase](https://reactspeed.com)
+* [SurviveJS - Webpack and React](http://survivejs.com/)
+
 ---
 
 ### React Native

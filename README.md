@@ -60,3 +60,5 @@ Collection of tutorial resources for React, React-Native, Redux, etc. This is mo
 * [Tutorial: Let’s Build a Redux Powered React Application](https://stormpath.com/blog/build-a-redux-powered-react-application)
 * [Погружение в React: Redux](http://prgssr.ru/development/pogruzhenie-v-react-redux.html)
 * [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
+* **[RU]:** [Руководство по работе с Redux](https://habrahabr.ru/company/mailru/blog/303456/)
+* [A Comprehensive Guide to Test-First Development with Redux, React, and Immutable](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)

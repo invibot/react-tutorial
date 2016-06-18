@@ -31,6 +31,10 @@ Collection of tutorial resources for React, React-Native, Redux, etc. This is mo
 * [React Speed Coding - React ES6, Redux, Webpack, Enzyme, Flexbox, Firebase](https://reactspeed.com)
 * [SurviveJS - Webpack and React](http://survivejs.com/)
 
+#### React styling
+ * [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
+ * [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
+
 ---
 
 ### React Native

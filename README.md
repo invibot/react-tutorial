@@ -18,6 +18,7 @@ Collection of tutorial resources for React, React-Native, Redux, etc. This is mo
 * [Getting Started with React](https://www.sitepoint.com/getting-started-react-jsx/)
 * **[RU]**: [React на практике: приложение с сортировкой и поиском данных](http://jsraccoon.ru/react-sort-and-search)
 * [22 Amazing open source React projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f#.ljq5izdox)
+* [Egghead Courses Review: React, Reactive Programming & Open Source](https://medium.com/@sapegin/egghead-courses-review-5594348c4adf#.un131msoq)
 
 #### React Components
 * [react-toolbox - A set of React components implementing Google's Material Design specification](http://www.react-toolbox.com)

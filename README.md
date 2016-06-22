@@ -48,7 +48,8 @@ Collection of tutorial resources for React, React-Native, Redux, etc. This is mo
 * [The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 1)](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
 * [Snowflake: A React-Native Android iOS Starter App](https://github.com/bartonhammond/snowflake)
 * **[RU]**: [Разработка простого приложения «шагомер» на ReactNative](https://habrahabr.ru/post/283494/)
-
+* [React Native Tutorial: Building Apps with JavaScript](https://www.raywenderlich.com/126063/react-native-tutorial)
+* **[RU]**: [Создаем приложение на JavaScript с помощью React Native](https://habrahabr.ru/company/plarium/blog/303328/)
 
 ---
 

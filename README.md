@@ -31,6 +31,7 @@ Collection of tutorial resources for React, React-Native, Redux, etc. This is mo
 #### Books
 * [React Speed Coding - React ES6, Redux, Webpack, Enzyme, Flexbox, Firebase](https://reactspeed.com)
 * [SurviveJS - Webpack and React](http://survivejs.com/)
+* [Thinking In React](https://www.thinkinginreact.xyz): Learn React, Flux, Webpack, Redux and more. This book walks you through solving real world problems in a _React way_. Covers concepts like immutability, reducers, declarative views, and flux architectures through real world UI projects.
 
 #### React styling
  * [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)

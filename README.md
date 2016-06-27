@@ -51,6 +51,7 @@ Collection of tutorial resources for React, React-Native, Redux, etc. This is mo
 * **[RU]**: [Разработка простого приложения «шагомер» на ReactNative](https://habrahabr.ru/post/283494/)
 * [React Native Tutorial: Building Apps with JavaScript](https://www.raywenderlich.com/126063/react-native-tutorial)
 * **[RU]**: [Создаем приложение на JavaScript с помощью React Native](https://habrahabr.ru/company/plarium/blog/303328/)
+* [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
 
 ---
 

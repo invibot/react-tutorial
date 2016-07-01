@@ -37,6 +37,9 @@ Collection of tutorial resources for React, React-Native, Redux, etc. This is mo
  * [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
  * [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 
+#### React Apps
+* [Made with React - Collection of websites and applications using ReactJS](http://madewithreact.com/)
+
 ---
 
 ### React Native
@@ -54,6 +57,7 @@ Collection of tutorial resources for React, React-Native, Redux, etc. This is mo
 * [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
 
 #### React Native Components
+
 * [Gifted Form](https://github.com/FaridSafi/react-native-gifted-form)
 
 

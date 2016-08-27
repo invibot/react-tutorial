@@ -21,6 +21,9 @@ Collection of tutorial resources for React, React-Native, Redux, etc. This is mo
 * [Egghead Courses Review: React, Reactive Programming & Open Source](https://medium.com/@sapegin/egghead-courses-review-5594348c4adf#.un131msoq)
 * [React and Flux in Production Best Practices](https://medium.com/@delveeng/react-and-flux-in-production-best-practices-c87766c57cb6#.xhvacdjeg)
 * [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
+* [React Patterns](http://reactpatterns.com/)
+
+
 
 #### React Components
 * [react-toolbox - A set of React components implementing Google's Material Design specification](http://www.react-toolbox.com)

@@ -10,6 +10,7 @@ Collection of tutorial resources for React, React-Native, Redux, etc. This is mo
 * [React Community GitHub](https://github.com/reactjs)
 
 #### React Tutorials
+* [Step by Step Environment Setup of the React Developer – No Legacy, 2016 Standards](http://www.zsoltnagy.eu/step-by-step-environment-setup-of-the-react-developer-no-legacy-2016-standards/)
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React.js  Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 * [Tutorial: Handcrafting an Isomorphic Redux Application (With Love)](https://medium.com/front-end-developers/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4), **[RU]:** [Изоморфное Приложение с React и Redux](https://habrahabr.ru/post/264423/)
